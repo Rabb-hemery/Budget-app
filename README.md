@@ -1,5 +1,10 @@
 # Budget-app
+
+> This project was completed as part of freeCodeCamp's "Scientific
+> Computing with Python" certification (the "Build a Budget App"  >challenge).
+
 Python budget application: a Category class to track expenses and income by category, featuring inter-category transfers and an ASCII bar chart showing the percentage of spending per category.
+
 
 ## Description
 
